@@ -17,7 +17,7 @@
 | **Languages** | **Frameworks** | **Infrastructure** |
 |:---:|:---:|:---:|
 | Java 17/21, SQL | Spring Boot, Spring Cloud | Docker, Kubernetes, AWS |
-| Python, Shell | Hibernate/JPA, Security | Kafka, Redis, PostgreSQL |
+| Shell | Hibernate/JPA, Security | Kafka, Redis, PostgreSQL |
 
 ---
 
