@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 Backend Engineer | Microservices Architect | Java Spring Boot Expert
+## 🚀 Backend Engineer | Microservices | Java Spring Boot Devloper
 
 I'm a passionate backend developer specializing in building scalable, distributed systems using modern technologies. I love solving complex problems and implementing enterprise-grade solutions with clean architecture.
 
