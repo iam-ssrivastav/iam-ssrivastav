@@ -193,8 +193,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shivamsrivastav/)
 - 📧 **Email**: shivamsriv961@gmail.com
-- 🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)
-- 💬 **Discord**: your_discord_handle
 
 ---
 
