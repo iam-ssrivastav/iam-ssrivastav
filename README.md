@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivamsrivastav/)
-[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium)](https://medium.com/@shivam-srivastav) <--- MEDIUM LINK HERE
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium)](https://medium.com/@shivam-srivastav)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/iam-ssrivastav)
 
 </div>
