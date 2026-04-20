@@ -28,6 +28,12 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 
 ## 📈 Detailed Activity & Stats
 
+<!-- 1. The Mountain Style Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ssrivastav&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<!-- 2. The Triangle/Radar Chart from your screenshot -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-ssrivastav&theme=tokyonight" width="100%" />
 </div>
@@ -53,18 +59,13 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -74,7 +75,6 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 **Enterprise-grade microservices platform with complete observability**
 - 🔄 **Saga Pattern**: Choreography-based distributed transactions with compensating transactions
 - 📊 **Full Observability**: ELK Stack, Zipkin, Prometheus, Grafana
-- 🔐 **Security**: JWT authentication, rate limiting with Redis
 
 ### 🏛️ [System Design Demo](https://github.com/iam-ssrivastav/system-design-demo)
 **E-commerce backend demonstrating advanced system design concepts**
@@ -83,18 +83,13 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 
 ---
 
-## 🎯 Core Competencies
+## 📫 Let's Connect!
 
-```yaml
-Architecture:
-  - Microservices & Event-Driven Architecture
-  - Saga Pattern (Choreography & Orchestration)
-  - CQRS & Domain-Driven Design (DDD)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shivamsrivastav/)
+- 📧 **Email**: shivamsriv961@gmail.com
 
-Backend Development:
-  - Spring Boot Ecosystem & JPA/Hibernate
-  - Apache Kafka & RESTful API Design
+<div align="center">
 
-Observability:
-  - Prometheus, Grafana & ELK Stack
-  - Distributed Tracing (Zipkin)
+![Profile Views](https://komarev.com/ghpvc/?username=iam-ssrivastav&color=blueviolet&style=for-the-badge)
+
+</div>
