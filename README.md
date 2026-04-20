@@ -17,39 +17,33 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 
 <p align="left">
   <a href="https://github.com/floci-io/floci">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=floci-io&repo=floci&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=floci-io&repo=floci&theme=github_dark" />
   </a>
   <a href="https://github.com/quarkusio/quarkus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quarkusio&repo=quarkus&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quarkusio&repo=quarkus&theme=github_dark" />
   </a>
 </p>
 
 ---
 
-## 📈 Detailed Activity & Stats
-
-<!-- 1. The Mountain Style Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ssrivastav&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
-<!-- 2. The Triangle/Radar Chart from your screenshot -->
+## 📊 Activity Overview
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-ssrivastav&theme=tokyonight" width="100%" />
+  <!-- The Green Triangle Graph matching your screenshot exactly -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-ssrivastav&theme=github_dark" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-ssrivastav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ssrivastav&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-ssrivastav&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ssrivastav&theme=github_dark" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ssrivastav&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-ssrivastav&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ssrivastav&layout=compact&theme=github_dark&hide=html,css" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-ssrivastav&theme=github_dark&utcOffset=5.5" width="48%" />
 </div>
 
 ---
@@ -73,7 +67,7 @@ I actively contribute to major open-source projects, focusing on AWS emulators a
 
 ### 🛒 [Order Management System](https://github.com/iam-ssrivastav/order-management-system)
 **Enterprise-grade microservices platform with complete observability**
-- 🔄 **Saga Pattern**: Choreography-based distributed transactions with compensating transactions
+- 🔄 **Saga Pattern**: Distributed transactions with compensating logic
 - 📊 **Full Observability**: ELK Stack, Zipkin, Prometheus, Grafana
 
 ### 🏛️ [System Design Demo](https://github.com/iam-ssrivastav/system-design-demo)
