@@ -186,6 +186,26 @@ I'm well-versed in discussing:
 - ✅ Observability and monitoring strategies
 
 ---
+<!-- START GRAPHS SECTION -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-ssrivastav&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-ssrivastav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ssrivastav&theme=tokyonight" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ssrivastav&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-ssrivastav&theme=tokyonight&utcOffset=5" width="48%" />
+</div>
+<!-- END GRAPHS SECTION -->
+
 
 ## 📫 Let's Connect!
 
